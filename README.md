@@ -5,7 +5,7 @@ Tengo conocimientos en metodologías ágiles y flujos de trabajo eficientes. Me 
 
 BACKGROUND
 
-Soy Ingeniero Electrónico con especialización en Instrumentación Electrónica en donde he desarrollado diferentes habilidades en el desarrollo, mantenimiento y gestion de proyectos de seguridad electrónica, cámaras, alarmas, sensores para diferesntes sectores de la industria. Esto me ha permitido liderar equipos de trabajo satisfactoriamente, permitiendo también el uso de datos para realizar difrentes análisis en beneficio de las compañías. 
+Soy Ingeniero Electrónico con especialización en Instrumentación Electrónica en donde he desarrollado diferentes habilidades en el desarrollo, mantenimiento y gestion de proyectos de seguridad electrónica, CCTV IP, alarmas, sensores para diferentes sectores de la industria. Esto me ha permitido liderar equipos de trabajo satisfactoriamente, permitiendo también el uso de datos para realizar difrentes análisis en beneficio de las compañías. 
 
 PROYECTOS
 
